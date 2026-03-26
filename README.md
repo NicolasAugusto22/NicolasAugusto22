@@ -1,4 +1,4 @@
-Olá ! Eu sou  o Nicolas Augusto 👍
+Olá ! Eu sou  o Nicolas Augusto 
 --
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) <br>
 --
